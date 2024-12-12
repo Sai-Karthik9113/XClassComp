@@ -8,26 +8,46 @@ This is a simple Counter App built using React.js as part of a course project. I
 - Simple UI with no additional pages
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/Sai-Karthik9113/XClassComp.git`
+1. Clone the repository:
+   ```
+   git clone https://github.com/Sai-Karthik9113/XClassComp.git
+   ```
 
-2. Navigate to the project directory: `cd counter-app`
+2. Navigate to the project directory:
+   ```
+   cd counter-app
+   ```
 
-3. Install dependencies: `npm install`
+3. Install dependencies:
+   ```
+   npm install
+   ```
 
-4. Run the app: `npm start`
+4. Run the app:
+   ```
+   npm start
+   ```
 
-The app will be available at http://localhost:3000 in your browser.
+The app will be available at `http://localhost:3000` in your browser.
 
 ## Technologies Used
 
-- React.js
+- React.js (Class-based components)
 
 ## Screenshots
 
-Here are some screenshots of the application:
+Below are some screenshots of the app, showcasing the counter functionality:
+
+- **On Load:** The app displays the initial counter value.
 
 ![Class Based Increment & Decrement App][on page load]
+
+- **Increment:** The counter after clicking the "Increment" button.
+
 ![Class Based Increment & Decrement App][increment]
+
+- **Decrement:** The counter after clicking the "Decrement" button.
+
 ![Class Based Increment & Decrement App][decrement]
 
 ## License
